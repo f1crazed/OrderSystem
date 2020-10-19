@@ -45,3 +45,15 @@ VALUES
 ('XL'),
 ('XXL')
 GO
+
+INSERT INTO OrderStatus
+(
+    StatusName,
+    StepOrder
+)
+VALUES
+('Order Submitted', 1),
+('Order Proccessing', 2),
+('Order Shipped', 4),
+('Order Completed', 5),
+('Order Cancelled', 99)

@@ -14412,6 +14412,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/Users/jeremy/Development/OrderSystem/WebApp/Views/Management/Index.cshtml",
+      "TargetPath": "Views\\Management\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/Users/jeremy/Development/OrderSystem/WebApp/Views/Shared/_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"

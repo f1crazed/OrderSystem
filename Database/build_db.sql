@@ -70,7 +70,8 @@ GO
 CREATE TABLE OrderStatus
 (
     ID INT IDENTITY(1,1) NOT NULL PRIMARY KEY,
-    StatusName VARCHAR(15)
+    StatusName VARCHAR(30),
+    StepOrder INT NOT NULL
 )
 GO
 
